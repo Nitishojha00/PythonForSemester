@@ -6,3 +6,5 @@ with open(file_path,"r") as file:
     content=file.read
     print("content of file:")
     print(content)
+
+    # nitish bhai comment
